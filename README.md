@@ -8,11 +8,11 @@ People nowadays, interact on social media, generates emotional data via tweets, 
 Scientific studies show that people are often influence by the data they consume online and make decisions or take actions that aligned with it. ##Probelm 
 Example: United Airlines, Snapchat, WallStreetBets
 
-##Problem Statement
+## Problem Statement
 How can we use social media information to predict and better understand stock market return?
 
 
-##Methodologies Used:
+## Methodologies Used:
 - Social network analysis
 - Sentiment analysis
 - Stock prediction using deep neural network
