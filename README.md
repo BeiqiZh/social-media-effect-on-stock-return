@@ -5,7 +5,7 @@ Social Network Effect and Stock Market Reaction
 We want to examine how social media could change the future of the stock market. 
 In fact, psychology is an important factor of the stock market reactions.
 People nowadays, interact on social media, generates emotional data via tweets, forum posts, and blogs.
-Scientific studies show that people are often influence by the data they consume online and make decisions or take actions that aligned with it. ##Probelm 
+Scientific studies show that people are often influence by the data they consume online and make decisions or take actions that aligned with it.
 Example: United Airlines, Snapchat, WallStreetBets
 
 ## Problem Statement
