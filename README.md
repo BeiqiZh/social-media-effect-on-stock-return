@@ -15,7 +15,9 @@ How can we use social media information to predict and better understand stock m
 ## Methodologies Used:
 - Social network analysis
 - Sentiment analysis
+- Topic Modeling
 - Stock prediction using deep neural network
+- K-mean clustering
 
 
 
