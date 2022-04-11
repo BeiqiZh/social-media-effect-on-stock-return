@@ -1,5 +1,5 @@
 # social-media-effect-on-stock-return
-Social Network Effect and Stock Market Reaction
+Social Network Effect and Stock Market Reaction.
 
 ## Context
 We want to examine how social media could change the future of the stock market. 
